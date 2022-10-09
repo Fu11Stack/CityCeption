@@ -12,7 +12,7 @@ Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websi
 
 Travel App
 
-Utilizing Google Maps API
+Utilizing Google Maps API.
 
 ## Available Scripts
 
